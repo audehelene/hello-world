@@ -140,6 +140,7 @@
 <br>	_Come and see: the good in everything_
 <br>	_Outside, animals sound,_
 <br>	_Come and see: the open ending”_
+<br> _Joe Casey_
 
 ```markdown
 
