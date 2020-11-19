@@ -4,7 +4,13 @@ You can use the [editor on GitHub](https://github.com/audehelene/hello-world/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### BAD POETRY #1
+
+<br>	_“And I’ll try…to live defeated_
+<br>	_Come and see: the good in everything_
+<br>	_Outside, animals sound,_
+<br>	_Come and see: the open ending”_
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
