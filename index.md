@@ -7,6 +7,6 @@
 <br>	_Outside, animals sound,_
 <br>	_Come and see: the open ending”_
 ```markdown
-  _Joe Casey_
+_Joe Casey_
 
 
