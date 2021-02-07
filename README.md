@@ -1,5 +1,4 @@
-# hello-world
-How does it feel to be stuck? This is the view from here.
+# How does it feel to be stuck? This is the view from here.
 
 
 <br>	What is practice as collaboration?<br>
