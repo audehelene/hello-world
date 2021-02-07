@@ -1,6 +1,6 @@
 
 
-### BAD POETRY #1
+###  #1
 
 <br>	What is practice as collaboration?
 <br>	How to retain a common ground
